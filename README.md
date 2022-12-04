@@ -1,4 +1,6 @@
-# Trajectory Planning of Autonomous Vehicles Based on Parameterized Control Optimization
+# Parameterized Trajectory Planning of Self-Driving Car
+
+<img src="/sample_run.gif" width="80%"/>
 
 This repo contains the code for the course project of SC627<br>
 Check out the [presentation](https://docs.google.com/presentation/d/1ZSfa5q7nca_gwPYKrbJI0X0-WCjAuhYOo1cYXzEIMkc/edit?usp=sharing) for more details on the approach<br>
